@@ -13,7 +13,7 @@
 <div class="container bg-info">
  <div class="row">
      <div class=" col text-right  ">
-         <a class="text-white pt-2 pr-2" href="login.php">Admin Login</a>
+         <a class="text-danger pt-2 pr-2" href="login.php">Admin Login</a>
      </div>
  </div>
  <div class="row">
